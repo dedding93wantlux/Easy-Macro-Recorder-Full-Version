@@ -237,3 +237,6 @@ This repository serves as the official landing page for Easy Macro Recorder. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Easy Macro Recorder today!**
+
+---
+**Last updated:** 2026-09-08 00:53:45 UTC
